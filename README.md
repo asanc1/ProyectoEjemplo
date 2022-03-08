@@ -1,4 +1,4 @@
 # ProyectoEjemplo
 mi primer repositorio git
+antonio lo ha borrado
 
-antonio lo ha cambiado
